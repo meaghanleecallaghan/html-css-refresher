@@ -1,0 +1,27 @@
+h1 {
+	font: "Times", serif;
+	font-size: 18px;
+	font:green;
+	font-style:bold;
+}
+h2 {
+	font: "Times", serif;
+	font-size: 16px;
+	font:green;
+}
+body {
+	font-family:"Tahoma", sans-serif;
+	font-size: 12px;
+	font: black;
+}
+div.byline {
+	font-family:"Helvetica", sans-serif;
+	font-size: 14px;
+	font: gray;
+	font-weight: bold;
+}
+div.graph {
+	font-family:"Helvetica", sans-serif;
+	font-size: 11px;
+	font:black;
+}
